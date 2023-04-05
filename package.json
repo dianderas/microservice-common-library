@@ -2,7 +2,7 @@
   "name": "common-microservice-lib",
   "version": "1.0.0",
   "description": "Microservice Common Library",
-  "homepage": "https://github.com/dianderas/clean-common-lib",
+  "homepage": "https://github.com/dianderas/microservice-common-library",
   "files": [
     "lib"
   ],
@@ -10,7 +10,7 @@
   "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dianderas/clean-common-lib"
+    "url": "https://github.com/dianderas/microservice-common-library"
   },
   "scripts": {
     "build": "rimraf ./lib && tsc"
